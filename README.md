@@ -1,4 +1,4 @@
 # EzDownloader
 simple downloader which can download videos / audio from almost any website using yt_dlp
 
-you do infact also need ffmpeg installed !
+you do infact also need ffmpeg installed ! or it glitches and video wont be playable blaahhhh 
