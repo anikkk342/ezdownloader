@@ -1,3 +1,2 @@
 # EzDownloader
-simple downloader with ytdlp 
-test project for learning 
+simple downloader which can download videos / audio from almost any website using yt_dlp
