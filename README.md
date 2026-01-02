@@ -1,2 +1,3 @@
-# ezdownloader
-simple downloader with ytdlp test project
+# EzDownloader
+simple downloader with ytdlp 
+test project for learning 
